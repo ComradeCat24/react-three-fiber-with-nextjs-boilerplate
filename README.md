@@ -1,4 +1,4 @@
-# react-three-fiber-boilerplate
+# react-three-fiber-with-nextjs-boilerplate
 
 ## Getting Started
 
